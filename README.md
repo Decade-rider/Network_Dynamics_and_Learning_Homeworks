@@ -8,7 +8,7 @@ Each homework explores different aspects of network theory, learning algorithms,
 
 ## 📁 Homeworks Overview
 
-### 📘 [Homework 1: Network Flows and Optimization](./Homework1.pdf)
+### 📘 [Homework 1: Network Flows and Optimization](./Homework1/Homework1.pdf)
 
 - **Topics Covered:**
   - Max-flow Min-cut Theorem
@@ -21,7 +21,7 @@ Each homework explores different aspects of network theory, learning algorithms,
 
 ---
 
-### 📘 [Homework 2: Continuous-Time Random Walks and Opinion Dynamics](./Homework2.pdf)
+### 📘 [Homework 2: Continuous-Time Random Walks and Opinion Dynamics](./Homework2/Homework2.pdf)
 
 - **Topics Covered:**
   - Simulation of continuous-time random walks
@@ -33,7 +33,7 @@ Each homework explores different aspects of network theory, learning algorithms,
 
 ---
 
-### 📘 [Homework 3: Epidemic Modeling and Distributed Graph Coloring](./Homework3.pdf)
+### 📘 [Homework 3: Epidemic Modeling and Distributed Graph Coloring](./Homework3/Homework3.pdf)
 
 - **Topics Covered:**
   - Simulation of SIR model on k-regular and preferential attachment graphs
